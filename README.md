@@ -1,2 +1,2 @@
 # course-git-intermediate-techniques
-Remote for learning Git intermediate techniques.
+Remote for learning intermediate Git techniques.
