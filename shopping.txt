@@ -2,4 +2,6 @@ Shopping List
 
 lettuce
 tomato
-tofu
+firm tofu
+oranges
+green grapes
