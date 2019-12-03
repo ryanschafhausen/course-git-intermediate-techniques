@@ -9,6 +9,6 @@ spinach
 celery
 original tempeh
 onion
-sweet potato
+3 sweet potatoes
 green grapes
 limes
